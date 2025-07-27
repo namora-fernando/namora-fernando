@@ -11,11 +11,14 @@ Aspiring **Data Analyst** with a background in Mathematics — passionate about 
 
 ---
 
-## 🛠️ Featured Projects
+## 🔍 Recent Projects
 
-### 🐾 Pet Clinic Database Analysis  
-[🔗 View Repository](https://github.com/namora-fernando/pet-clinic-sql-analysis/blob/main/analyze_pet_database_sql_version.ipynb)  
-> A SQLite-based mini project simulating a veterinary clinic database. Includes SQL queries and simple data visualizations using `seaborn`.
+### - 🐾 [Pet Clinic Database Simulation](https://github.com/namora-fernando/pet-clinic-database-sql)  
+  Simulates a veterinary clinic database using SQLite, with analysis and visualizations in Jupyter.
+
+### - 🎬 [Netflix EDA using Kaggle Dataset](https://github.com/namora-fernando/netflix-eda-kaggle-dataset)  
+  Exploratory analysis of Netflix content by genre, release year, country, and rating.  
+  👉 Check full notebook here: [Kaggle Notebook](https://www.kaggle.com/code/namorafn7/netflix-eda-genre-year-country-ratings)
 
 ---
 
