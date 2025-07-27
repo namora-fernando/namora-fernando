@@ -24,7 +24,7 @@ Aspiring **Data Analyst** with a background in Mathematics — passionate about 
 
 ## 📊 Badges & Profiles
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/fernando-namora-21a143169/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/fernando-namora/)
 [![Kaggle](https://img.shields.io/badge/-Kaggle-20BEFF?logo=kaggle&style=flat-square)](https://www.kaggle.com/namorafn7)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 
