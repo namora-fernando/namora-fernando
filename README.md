@@ -14,7 +14,7 @@ Aspiring **Data Analyst** with a background in Mathematics — passionate about 
 ## 🛠️ Featured Projects
 
 ### 🐾 Pet Clinic Database Analysis  
-[🔗 View Repository](https://github.com/namora-fernando/analyze_pet_database_sql_version.ipynb)  
+[🔗 View Repository](https://github.com/namora-fernando/pet-clinic-sql-analysis/blob/main/analyze_pet_database_sql_version.ipynb)  
 > A SQLite-based mini project simulating a veterinary clinic database. Includes SQL queries and simple data visualizations using `seaborn`.
 
 ---
