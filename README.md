@@ -1,17 +1,23 @@
 # 👋 Hello! I'm Namora Fernando
 
-Aspiring **Data Analyst** with a background in Mathematics — passionate about using data to answer meaningful questions and uncover insights. Currently learning and building projects using:
+Aspiring **Data Analyst** with a background in Mathematics — passionate about transforming data into actionable insight. I enjoy working on structured analysis, dashboards, and turning messy data into clear stories.
 
-- **Languages & Tools**: Python, SQL, Jupyter Notebook, SQLite, pandas, seaborn
-- **Learning Next**: Power BI, Tableau, and other data visualization tools
-- **Soft Skills**: Analytical thinking, fast learner, attention to detail
+### 🧰 Tools & Technologies
+- **Languages**: Python, SQL, Markdown
+- **Data Analysis**: pandas, seaborn, matplotlib, Jupyter Notebook
+- **Visualization**: Power BI (real-world dashboards)
+- **Database**: SQLite (using DB Browser for SQLite)
+- **Other Tools**: Excel, Git, GitHub
 
-📚 Actively working on personal projects involving data querying, analysis, and storytelling.  
-🔍 Open to collaborations, feedback, or exciting opportunities!
+📚 Currently building projects using real-world datasets, combining both backend querying and frontend reporting.  
+🔍 Open to feedback, collaborations, or career opportunities in data!
 
 ---
 
 ## 🔍 Recent Projects
+
+### 📊 [Justy Sales Dashboard (Power BI)](https://github.com/namora-fernando/justy-sales-dashboard)
+  Built an end-to-end dashboard using raw café transaction data. Visualized daily sales, menu trends, and customer behavior to support operations and reduce overstocking.
 
 ### - 🐾 [Pet Clinic Database Simulation](https://github.com/namora-fernando/pet-clinic-sql-analysis)  
   Simulates a veterinary clinic database using SQLite, with analysis and visualizations in Jupyter Notebook.
@@ -32,8 +38,9 @@ Aspiring **Data Analyst** with a background in Mathematics — passionate about 
 
 ## 🌱 Upcoming Projects
 
-- Google Data Analytics capstone (planned)  
-- Dashboard project using Power BI / Tableau (in progress, using real-world dataset)
+- More business-oriented dashboards (F&B, logistics)
+- Google Data Analytics capstone
+- Sharpening DAX, SQL joins, and Power BI interactions
 
 ---
 
