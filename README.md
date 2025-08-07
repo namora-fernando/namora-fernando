@@ -16,7 +16,7 @@ Aspiring **Data Analyst** with a background in Mathematics — passionate about 
 
 ## 🔍 Recent Projects
 
-### 📊 [Justy Sales Dashboard (Power BI)](https://github.com/namora-fernando/justy-sales-dashboard)
+### - 🧃 [Justy Sales Dashboard (Power BI)](https://github.com/namora-fernando/justy-sales-dashboard)
   Built an end-to-end dashboard using raw café transaction data. Visualized daily sales, menu trends, and customer behavior to support operations and reduce overstocking.
 
 ### - 🐾 [Pet Clinic Database Simulation](https://github.com/namora-fernando/pet-clinic-sql-analysis)  
