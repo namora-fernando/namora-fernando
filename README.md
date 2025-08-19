@@ -16,6 +16,12 @@ Aspiring **Data Analyst** with a background in Mathematics — passionate about 
 
 ## 🔍 Recent Projects
 
+### - 📈 [Inflation Risk Analysis (WIP)](https://github.com/namora-fernando/inflation-risk-analysis)  
+  Flagship portfolio analyzing inflation risk across countries.  
+  - Cleaned and merged macroeconomic data  
+  - Performed exploratory analysis & built custom risk index  
+  - Preparing Power BI dashboard (WIP)
+
 ### - 🧃 [Justy Sales Dashboard (Power BI)](https://github.com/namora-fernando/justy-sales-dashboard)
   Built an end-to-end dashboard using raw café transaction data. Visualized daily sales, menu trends, and customer behavior to support operations and reduce overstocking.
 
