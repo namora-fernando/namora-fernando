@@ -16,7 +16,7 @@ Aspiring **Data Analyst** with a background in Mathematics — passionate about 
 
 ## 🔍 Recent Projects
 
-### - 📈 [Inflation Risk Analysis (WIP)](https://github.com/namora-fernando/inflation-risk-analysis)  
+### - 📈 [Inflation Risk Analysis (_WIP_)](https://github.com/namora-fernando/inflation-risk-analysis)  
   Flagship portfolio analyzing inflation risk across countries.  
   - Cleaned and merged macroeconomic data  
   - Performed exploratory analysis & built custom risk index  
