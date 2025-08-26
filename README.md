@@ -30,10 +30,10 @@ This project consists of two parts:
    Automated data collection using Python (Selenium + WebDriver).  
    → Scrapes daily sales transactions and exports them to structured data format.
    
-3. **[Justy Sales Dashboard (Power BI)](https://github.com/namora-fernando/justy-sales-dashboard)**
+3. **[Justy Sales Dashboard (Power BI)](https://github.com/namora-fernando/justy-sales-dashboard)**  
    Data visualization using Power BI.  
    → Built an end-to-end dashboard using raw café transaction data. Provides insights such as sales overview, top-selling menus, and hourly sales patterns.
-
+   
 ### - 🐾 [Pet Clinic Database Simulation](https://github.com/namora-fernando/pet-clinic-sql-analysis)  
   Simulates a veterinary clinic database using SQLite, with analysis and visualizations in Jupyter Notebook.
 
