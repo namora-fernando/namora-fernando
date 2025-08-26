@@ -1,6 +1,6 @@
 # 👋 Hello! I'm Namora Fernando
 
-Aspiring **Data Analyst** with a background in Mathematics — passionate about transforming data into actionable insight. I enjoy working on structured analysis, dashboards, and turning messy data into clear stories.
+Aspiring **Data Analyst** with a background in Mathematics — passionate about data analytics, automation, and visualization — turning raw data into actionable insights. I enjoy working on structured analysis, dashboards, and turning messy data into clear stories.
 
 ### 🧰 Tools & Technologies
 - **Languages**: Python, SQL, Markdown
@@ -22,8 +22,17 @@ Aspiring **Data Analyst** with a background in Mathematics — passionate about 
   - Performed exploratory analysis & built custom risk index  
   - Preparing Power BI dashboard (WIP)
 
-### - 🧃 [Justy Sales Dashboard (Power BI)](https://github.com/namora-fernando/justy-sales-dashboard)
-  Built an end-to-end dashboard using raw café transaction data. Visualized daily sales, menu trends, and customer behavior to support operations and reduce overstocking.
+### - 📊 Justy Sales Analytics Ecosystem
+
+This project consists of two parts:
+
+1. **[Justy Transactions Scraper (Python)](https://github.com/namora-fernando/justy-transactions-scraper)**  
+   Automated data collection using Python (Selenium + WebDriver).  
+   → Scrapes daily sales transactions and exports them to structured data format.
+   
+3. **[Justy Sales Dashboard (Power BI)](https://github.com/namora-fernando/justy-sales-dashboard)**
+   Data visualization using Power BI.
+   → Built an end-to-end dashboard using raw café transaction data. Provides insights such as sales overview, top-selling menus, and hourly sales patterns.
 
 ### - 🐾 [Pet Clinic Database Simulation](https://github.com/namora-fernando/pet-clinic-sql-analysis)  
   Simulates a veterinary clinic database using SQLite, with analysis and visualizations in Jupyter Notebook.
