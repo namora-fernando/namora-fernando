@@ -7,6 +7,7 @@ Aspiring **Data Analyst** with a background in Mathematics — passionate about 
 - **Data Analysis**: pandas, seaborn, matplotlib, Jupyter Notebook
 - **Visualization**: Power BI (real-world dashboards)
 - **Database**: SQLite (using DB Browser for SQLite)
+- **Data Collection / Automation**: Selenium (for web scraping)
 - **Other Tools**: Excel, Git, GitHub
 
 📚 Currently building projects using real-world datasets, combining both backend querying and frontend reporting.  
