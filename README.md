@@ -54,7 +54,7 @@ This project consists of two parts:
 
 ## 🌱 Upcoming Projects
 
-- More business-oriented dashboards (F&B, logistics)
+- More business-oriented dashboards (E-Commerce, Finance, F&B, logistics)
 - Google Data Analytics capstone
 - Sharpening DAX, SQL joins, and Power BI interactions
 
